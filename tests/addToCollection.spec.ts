@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('Login using valid information', async ({ page }) => {
+test('Add to Collection', async ({ page }) => {
 
     let alertMessage = '';
 
